@@ -1,1 +1,5 @@
 # CareerMapper
+22BCE0594
+
+PROJECT IS DEPLOYED AND CAN BE ACCESED USING THE FOLLOWING LINK
+https://careermapper.streamlit.app
